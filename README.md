@@ -1,4 +1,4 @@
-### Hello,World,42!
+### Hello,World!
 
 <!--
 **mdaadoun/mdaadoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
